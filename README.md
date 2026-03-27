@@ -32,15 +32,6 @@ Creativo digitale con la passione per il codice. Mi concentro sulla creazione di
 
 ---
 
-### 📊 GitHub Stats
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antonioduch&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioduch&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
-</p>
-
----
 
 ### 🌐 Socials & Connect
 *Contattami per collaborazioni o semplicemente per un caffè virtuale.*
